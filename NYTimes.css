@@ -1,0 +1,91 @@
+body {
+  background: white; }
+
+.main_header_left ul {
+  list-style-type: none; }
+.main_header_left li {
+  display: inline-block;
+  padding: 5px; }
+  .main_header_left li h3 {
+    font-family: "Playfair Display SC", serif; }
+
+.main_header_left a {
+  text-decoration: none;
+  color: black; }
+
+.main_header_left a:hover {
+  text-decoration: underline; }
+
+.main_header_left li button {
+  border-radius: 20%;
+  width: auto;
+  height: auto;
+  background: white; }
+
+.main_header_left button:hover {
+  background: lightgrey; }
+
+#mainTitle {
+  position: relative;
+  text-align: center;
+  top: -75px;
+  font-size: 30px;
+  font-family: "Playfair Display SC", serif; }
+
+.main_header_right button {
+  background: lightblue;
+  border-radius: 20%;
+  width: 90px;
+  position: absolute;
+  right: 4px;
+  top: 50px; }
+
+hr {
+  position: relative;
+  bottom: 40px; }
+
+.main_content_section {
+  width: 90%;
+  position: relative;
+  left: 55px;
+  box-shadow: 3px 3px 3px 3px; }
+
+.main_content {
+  width: 90%; }
+  .main_content h5 {
+    position: relative;
+    left: 140px; }
+  .main_content h1 {
+    position: relative;
+    left: 137px; }
+  .main_content hr {
+    position: relative;
+    left: 25px;
+    top: 0px;
+    width: 80%; }
+  .main_content cite {
+    position: relative;
+    left: 40px;
+    margin-left: 90px; }
+  .main_content img {
+    position: relative;
+    left: 25px;
+    max-width: 100%; }
+
+.main_paragraphs {
+  width: 90%; }
+  .main_paragraphs p {
+    margin-left: 150px;
+    width: 90%; }
+  .main_paragraphs img {
+    margin-top: 20px;
+    margin-left: 50px; }
+  .main_paragraphs iframe {
+    margin-top: 20px;
+    margin-left: 150px; }
+
+#image3 {
+  position: relative;
+  margin-left: 70px; }
+
+/*# sourceMappingURL=NYTimes.css.map */
